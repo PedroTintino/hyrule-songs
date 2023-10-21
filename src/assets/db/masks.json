@@ -1,0 +1,48 @@
+[
+    {
+    "ID": 1,
+    "Item": "Deku Mask",
+    "Image": "Deku-Mask.png",
+    "Location": "Clock Tower",
+    "Condition": "After obtaining the Ocarina of Time",
+    "Description": "Link is transformed into Deku Link after he lands in Termina. By retrieving the Ocarina of Time from Skull Kid and speaking with the Happy Mask Salesman, he learns the Song of Healing and transforms the curse into the Deku Mask, allowing him to transform back and forth at will. It is implied to contain the soul of the Deku Butler's Son.",
+    "Abilities": [
+      "Wear it to assume Deku Link form. This allows Link to interact with other Deku Scrubs, stun enemies, hop on water, use flowers to fly, and shoot bubbles.",
+      "Deku Link is weak to fire, and while he can hop across water for 5 skips, after that he will drown."
+    ]
+  },
+  {
+    "ID": 2,
+    "Item": "Goron Mask",
+    "Image": "Goron-Mask.png",
+    "Location": "Goron Graveyard",
+    "Condition": "After obtaining Lens of Truth",
+    "Description": "To get the Goron Mask, Link must play the Song of Healing for the spirit of Darmani at his grave in the Goron Graveyard.",
+    "Abilities": [
+      "Wear it to assume Goron Link form. This allows Link to pretend to be Darmani to other Gorons, move heavy objects, roll at speed, Goron Pound, walk on lava, and punch with fists of fire."
+    ]
+  },
+  {
+    "ID": 3,
+    "Item": "Zora Mask",
+    "Image": "Zora-Mask.png",
+    "Location": "Great Bay Coast",
+    "Condition": "After obtaining Epona",
+    "Description": "To get the Zora Mask, Link must play the Song of Healing to heal the spirit of Mikau, the Indigo-Go's guitarist.",
+    "Abilities": [
+      "Wear it to assume Zora Link form. This allows Link to pretend to be Mikau to other Zoras, swim quickly, fight underwater, and use the boomerang-like fins for combat."
+    ]
+  },
+  {
+    "ID": 4,
+    "Item": "Fierce Deity's Mask",
+    "Image": "Fierce-Deitys-Mask.png",
+    "Location": "Moon",
+    "Condition": "After obtaining all 20 normal masks, completing trials Inside the Moon.",
+    "Description": "To get the Fierce Deity's Mask, Link must complete the trials Inside the Moon and give all 20 normal masks to the Moon Children. The last child, wearing Majora's Mask, will give Link this mask because he has no non-transformation masks left.",
+    "Abilities": [
+      "Wear it to assume Fierce Deity Link form, but only in Boss rooms. This transforms Link into an adult form, armed with the powerful, two-handed Fierce Deity Sword which can deal multiple times the damage of the base Kokiri Sword, and shoot Sword Beams when Z-Targeting."
+    ]
+  }  
+]
+  
