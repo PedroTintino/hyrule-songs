@@ -4,11 +4,16 @@
     color: #fff;
     background-color: black;
     align-items: center;
-    padding: 1em;
+    padding: .5em;
+    width: 100vw;
+   position: fixed;
+   bottom: 0;
+   
+    
 }
 
 .list{
-    padding: 1em;
+    padding: .3em;
     list-style: none;
     display: flex;
     font-size: 1em;

@@ -8,11 +8,12 @@ import  Masks  from './pages/Masks'
 function App() {
   return (
     <>
+    <Navbar />
       <Routes>
       <Route exact path='/' element={<Intro />} />
       <Route exact path='/masks' element={<Masks />} />
       </Routes>
-      <Navbar />
+      
       <Footer />
     </>
   )

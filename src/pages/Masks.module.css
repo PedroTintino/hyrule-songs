@@ -1,0 +1,18 @@
+
+.happySalesman{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    height: 25em;
+}
+
+.tittle{
+    z-index: 1;
+    font-size: .8em;
+    width: 20em;
+    position: fixed;
+    top: 0;
+    margin-top: 5em;
+    margin-left: 10em;
+}
+
